@@ -1,1 +1,3 @@
-# vibes
+# Vibes
+
+vibes.hackclub.com
